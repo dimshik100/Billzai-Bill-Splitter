@@ -1,2 +1,4 @@
 # Bill-Splitter
-Bill splitter web application
+Bill splitter android application.
+
+The app that will make your life easier.
